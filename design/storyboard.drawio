@@ -1,49 +1,49 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="2546" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2260" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="7" value="Area of Trapezoid, with JS" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-700" y="10" width="790" height="480" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-9" value="Formula&lt;br&gt;A =&amp;nbsp;[ (a+b)/2]&amp;nbsp; h" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
-                    <mxGeometry x="-200" y="40" width="690" height="30" as="geometry"/>
+                <mxCell id="4jYaBULeYsblQCiPMh8z-9" value="Formula&lt;br&gt;A =&amp;nbsp;[ (a+b)/2]&amp;nbsp; h" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
+                    <mxGeometry x="40" y="40" width="450" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-10" value="Please enter integers for dimensions" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-10" value="Please enter integers for dimensions" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="-10" y="80" width="410" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="7" vertex="1">
                     <mxGeometry x="150" y="170" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="7" vertex="1">
                     <mxGeometry x="150" y="220" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-19" value="a base:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-19" value="a base:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="90" y="120" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="7" vertex="1">
                     <mxGeometry x="150" y="120" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-20" value="mm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-20" value="mm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="260" y="120" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-21" value="b base:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-21" value="b base:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="90" y="170" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-22" value="mm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-22" value="mm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="260" y="170" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-23" value="height:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-23" value="height:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="90" y="220" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-24" value="mm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-24" value="mm" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="260" y="220" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="7" vertex="1">
                     <mxGeometry x="120" y="340" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="4jYaBULeYsblQCiPMh8z-26" value="Calculate Area" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="4jYaBULeYsblQCiPMh8z-26" value="Calculate Area" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="85" y="345" width="190" height="30" as="geometry"/>
                 </mxCell>
             </root>
